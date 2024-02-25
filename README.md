@@ -5,4 +5,4 @@
 <li> I am completing The Odin Project at the moment</li>
 <li> You can go through my professional experience at my 
 <a href="https://www.linkedin.com/in/deepanshu-panwar-a667b2147/">LinkedIn</a></li>
-<li>You can follow me on twitter <a href = "https://twitter.com/DeepanshuCodes">@deepanshuCodes</a> where I try to document my learning journey</li>
+<li>You can follow me on twitter <a href = "https://twitter.com/DeepanshuCodes">@deepanshuCodes</a> where I document my learning journey</li>
